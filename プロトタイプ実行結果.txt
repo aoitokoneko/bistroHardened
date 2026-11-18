@@ -1,0 +1,4 @@
+python3に対して
+ひ み つฅ^•ω•^ฅ:~$ sudo docker images | grep python
+aoi-Hardenedtestpython3:latest   a949d6fb1211       18.2MB         5.27MB
+ひ み つฅ^•ω•^ฅ:~$
