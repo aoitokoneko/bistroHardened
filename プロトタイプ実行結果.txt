@@ -7,3 +7,5 @@ Build Cache     4         0         27.01MB   11.34MB
 ひみつ:~$ sudo docker images | grep python
 hardened-python3:v1   d3254418293e 15.7MB 4.34MB   U
 ひみつ:~$
+
+改良加えたエンジンでPython3正常動作を確認しつつ、HardenedPatchを新たに加えてこの結果
